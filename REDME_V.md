@@ -1,7 +1,7 @@
 # PostgreSQL Практика: Пагинация, Сортировка и Фильтрация данных
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)](https://www.postgresql.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 ## 📋 Описание проекта
 
