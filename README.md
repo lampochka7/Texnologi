@@ -2,7 +2,7 @@
 # HR Candidate Tracking System (Система учёта кандидатов)
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)](https://www.postgresql.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 ## 📋 Описание проекта
 
@@ -48,9 +48,4 @@
 - PostgreSQL 12 или выше
 - Любой клиент для работы с PostgreSQL (pgAdmin, DBeaver, psql)
 
-### Установка и запуск
 
-1. **Клонируйте репозиторий**
-```bash
-git clone https://github.com/yourusername/hr-candidate-system.git
-cd hr-candidate-system
